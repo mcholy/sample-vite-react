@@ -1,11 +1,11 @@
 {
   "name": "personal-web-app",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
-    "preview": "vite preview --port 8082"
+    "preview": "vite preview --port 3004"
   },
   "dependencies": {
     "react": "^17.0.0",
