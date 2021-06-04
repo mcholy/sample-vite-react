@@ -2,7 +2,7 @@
   "name": "personal-web-app",
   "version": "0.0.1",
   "scripts": {
-    "dev": "vite",
+    "dev": "HOST=0.0.0.0 vite",
     "build": "vite build"
   },
   "dependencies": {
