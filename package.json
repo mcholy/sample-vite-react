@@ -3,9 +3,7 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "serve": "vite preview",
-    "preview": "vite preview --port 3004"
+    "build": "vite build"
   },
   "dependencies": {
     "react": "^17.0.0",
